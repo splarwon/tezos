@@ -14,7 +14,7 @@ wait_for_the_node_to_be_ready() {
         printf "."
         sleep 1
     done
-    echo " done."
+    echo " done. :)"
 }
 
 wait_for_the_node_to_be_bootstraped() {
